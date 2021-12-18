@@ -1,4 +1,4 @@
 # CommuterGame
 CS102 Final Project: Commuter Game (Ryan Cui & Earl Kwofie)
 
-This game revolved around the player controlling the movements of an ordinary commuter on his way to work. The commuter is susceptible to speeding vehicles while crossing streets, which is the main obstacle of the game.
+This game revolved around the player controlling the movements of an ordinary commuter on his way to work. The commuter is susceptible to speeding vehicles while crossing streets, which is the main obstacle of the game. To win, the player must make it to work without being injured too much from the obstacles.
